@@ -1,6 +1,3 @@
-Here's a stylish and updated version of your README file:
-
----
 
 # 🎭 Emotion Detection by Text  
 
